@@ -1,10 +1,10 @@
-# 基于springboot的个人博客管理系统
+# 基于springboot的个人博客管理系统3
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**博客3** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**博客**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -31,35 +31,27 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312351844.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207312351844.jpg)
 
 ### 4.2 前端模块
 
-![前端首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312351340.jpg)
+![前端首页](https://www.codeshop.fun/Typora-Images/202207312351340.jpg)
 
-![前端博文详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312351440.jpg)
+![前端博文详情](https://www.codeshop.fun/Typora-Images/202207312351440.jpg)
 
 ### 4.3 后端模块
 
-![后端-标签管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312351220.jpg)
+![后端-标签管理](https://www.codeshop.fun/Typora-Images/202207312351220.jpg)
 
-![后端-发布文章](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312351180.jpg)
+![后端-发布文章](https://www.codeshop.fun/Typora-Images/202207312351180.jpg)
 
-![后端-评论管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312351524.jpg)
+![后端-评论管理](https://www.codeshop.fun/Typora-Images/202207312351524.jpg)
 
-![后端-文件管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312351368.jpg)
+![后端-文件管理](https://www.codeshop.fun/Typora-Images/202207312351368.jpg)
 
-![后端-文章管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312351656.jpg)
+![后端-文章管理](https://www.codeshop.fun/Typora-Images/202207312351656.jpg)
 
-![后端-系统设置](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312351721.jpg)
+![后端-系统设置](https://www.codeshop.fun/Typora-Images/202207312351721.jpg)
 
-![后端-友链管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312352944.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**博客3** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![后端-友链管理](https://www.codeshop.fun/Typora-Images/202207312352944.jpg)
 
